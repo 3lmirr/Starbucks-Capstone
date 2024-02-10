@@ -39,9 +39,8 @@ Here is the schema and explanation of each variable in the files:
 -   time (int) - time in hours since start of test. The data begins at time t=0
 -   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+(As the size of transcript.json is more than GitHub accepts, I upload it in .xlsx format)
 
-## Acknowledgements
-<a name="license"></a>
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
